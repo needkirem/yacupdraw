@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YaCupDraw</string>
+    <string name="remove_all_previews">Удалить все кадры</string>
+</resources>
